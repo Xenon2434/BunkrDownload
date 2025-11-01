@@ -13,6 +13,7 @@
 2. A "Generate Links" button is added to the top right of the page: 
 
 ![](button.png)
+
 3. Upon clicking the button, the script will analyze and extract a direct download URL for each video on the page.
 4. Once the script has finished, a popup will appear containing all extracted URLs. You can use the "Copy All Links" button to quickly copy into Jdownloader or another downloading tool of your choice: 
 ![](output.png)

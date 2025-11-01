@@ -67,7 +67,7 @@
         modal.style.top = "50%";
         modal.style.left = "50%";
         modal.style.transform = "translate(-50%, -50%)";
-        modal.style.backgroundColor = "#263344";
+        modal.style.backgroundColor = "rgb(var(--color-mute)";
         modal.style.padding = "20px";
         modal.style.border = "1px solid #ccc";
         modal.style.boxShadow = "0px 4px 6px rgba(0, 0, 0, 0.1)";
@@ -125,7 +125,7 @@
             let linkElement = document.createElement("a");
             linkElement.href = link;
             linkElement.innerText = link;
-            linkElement.style.color = "#7d8ca2";
+            linkElement.style.color = "#fffff";
             linkElement.style.textDecoration = "none";
             linkElement.target = "_blank";
 
